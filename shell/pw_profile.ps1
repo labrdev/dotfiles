@@ -12,6 +12,3 @@ Invoke-Expression (&starship init powershell)
 # Set-PoshPrompt blue-owl
 
 # Import-Module -Name Terminal-Icons
-
-# Alias
-alias df = "cd $HOME\.config\dotfiles"
