@@ -1,6 +1,0 @@
-presets
-ruta
-machine metrics
-git
-langua
-plataform
